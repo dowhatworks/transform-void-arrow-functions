@@ -1,0 +1,14 @@
+{
+    "name": "transform-void-arrow-functions",
+    "version": "1.0.0",
+    "description": "slightly optimizes voided arrow functions",
+    "main": "src/index.js",
+    "repository": "https://github.com/dowhatworks/transform-void-arrow-functions.git",
+    "author": "dowhatworks@ftml.net",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+        "babel": "^6.23.0",
+        "babel-core": "^6.26.0"
+    }
+}
